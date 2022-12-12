@@ -1,11 +1,7 @@
-# Documentation
-
 ## setup 
 1. First commit
-2. Second Commit
-3. Third Commit
+2. New data
+5. LOLA
+POLA
 
-## Project Structure 
-1. Second Commit
-
-## Contribute 
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
